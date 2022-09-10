@@ -20,7 +20,7 @@
 <br />
 
 
-# Blog posts
+# Stats
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
